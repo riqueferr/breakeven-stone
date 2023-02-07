@@ -1,0 +1,34 @@
+{
+  "Version": 1,
+  "Hash": "8FrLO2Afs1Xeiqqb33Tc8S3FxE3ViEo293RYskdiYCU=",
+  "Source": "InvestmentPortfolioService.Api",
+  "BasePath": "_content/InvestmentPortfolioService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/home/henrique/RiderProjects/Breakeven-Henri/InvestmentPortfolioService.Domain/InvestmentPortfolioService.Domain.csproj",
+      "Version": 2,
+      "Source": "InvestmentPortfolioService.Domain",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    },
+    {
+      "Identity": "/home/henrique/RiderProjects/Breakeven-Henri/InvestmentPortfolioService.Repository/InvestmentPortfolioService.Repository.csproj",
+      "Version": 2,
+      "Source": "InvestmentPortfolioService.Repository",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

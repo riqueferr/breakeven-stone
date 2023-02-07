@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "X0843bDZYD0L3i5SZqvibFh2CIjp8ll4AGieDPdKWGM=",
+  "Source": "InvestmentPortfolioService.Domain",
+  "BasePath": "_content/InvestmentPortfolioService.Domain",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
