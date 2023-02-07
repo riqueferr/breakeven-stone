@@ -1,6 +1,6 @@
 namespace InvestmentPortfolioService.Api.Contracts.v1.Requests;
 
-public class CreateProduct
+public class CreateProductCommand
 {
     public string Title { get; set; }
     public string Description { get; set; }
