@@ -4,9 +4,7 @@ namespace InvestmentPortfolioService.Repository.Repositories;
 
 public class AccountBankingSqlRepository : IAccountBankingRepository
 {
-    
-    
-    public Task<IEnumerable<AccountBanking>> GetAllAccounts()
+    public void Dispose()
     {
         throw new NotImplementedException();
     }
@@ -36,32 +34,7 @@ public class AccountBankingSqlRepository : IAccountBankingRepository
         throw new NotImplementedException();
     }
 
-    public Task<AccountBanking?> GetAccountById(int? accountId)
-    {
-        throw new NotImplementedException();
-    }
-
-    public Task<AccountBanking> AddAccount(AccountBanking account)
-    {
-        throw new NotImplementedException();
-    }
-
-    public Task<AccountBanking> UpdateAccount(AccountBanking account)
-    {
-        throw new NotImplementedException();
-    }
-
-    public Task<AccountBanking> DeactivateAccount(int id)
-    {
-        throw new NotImplementedException();
-    }
-
     public Task Save()
-    {
-        throw new NotImplementedException();
-    }
-
-    public void Dispose()
     {
         throw new NotImplementedException();
     }
